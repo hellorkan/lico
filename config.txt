@@ -1,4 +1,4 @@
-owner=460606140666085378
+owner=477107824174956545
 prefix=N
 game=Type Nplay 
 stayinchannel=true
