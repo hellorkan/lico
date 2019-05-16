@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=13
-game=.
+owner=477107824174956545
+prefix=N
+game=Type Nplay 
 stayinchannel=true
 songinstatus=false
-token=NTQyNDE4MDU1Njc0ODU1NDQy.D0G2bw.HdX5ai7ZatvZutTqESZXqYWAaN0
+token=NTc4NzIyMDY4MDYxNzQ5Mjc4.XN3vlA.nZ8JPFCivAzdoiRyTj3i2H2OH4w
